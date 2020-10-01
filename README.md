@@ -3,11 +3,20 @@ Interview Questions for DevOps / SRE
 Create Sections with folder and add your questions in it.
 ## Topics
 - Kubernetes
-- Monitoring
-- CI/CD
+- Monitoring - Prometheus/Grafana
+- CI/CD - Jenkins, Gitlab
 - Cloud - AWS, GCP, Azure
 - Automation
 - Docker
-- CMT
-- SCM
+- CMT - Terraform, Ansible
+- SCM - GIT, SVN
 - Serverless
+- GitOps
+- Helm
+- Linux
+- Shell
+- Windows
+- Powershell
+- Python
+- Go
+- Scripting
