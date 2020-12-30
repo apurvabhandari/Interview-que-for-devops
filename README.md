@@ -12,6 +12,7 @@ Create Sections with folder and add your questions in it.
 - SCM - GIT, SVN
 - Serverless
 - GitOps
+- GithubActions 
 - Helm
 - Linux
 - Shell
