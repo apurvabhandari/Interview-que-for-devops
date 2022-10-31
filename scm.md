@@ -1,0 +1,4 @@
+- What are the SCM tools ?
+- What is git ?
+- What is git branching strategy?
+- What is diffrence between git pull and git fork?
